@@ -134,7 +134,7 @@
               </Assign.Value>
             </Assign>
             <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="496.8,92.8" sap2010:WorkflowViewState.IdRef="LogMessage_3" Level="Warn" Message="[&quot;CompanyCode .&quot; + companyCode + &quot;.&quot;]" />
-            <Switch x:TypeArguments="x:Int32" DisplayName="Switch" sap:VirtualizedContainerService.HintSize="496.8,118.4" sap2010:WorkflowViewState.IdRef="Switch`1_1" />
+            <Switch x:TypeArguments="x:Int32" DisplayName="Switch" Expression="[companyCode]" sap:VirtualizedContainerService.HintSize="496.8,118.4" sap2010:WorkflowViewState.IdRef="Switch`1_1" />
           </Sequence>
         </ActivityAction>
       </ui:ForEach.Body>
