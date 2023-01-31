@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d01zXL4ahAwP6BREHCG7+6CfqYoDZ4CC4RBRxluUJvCzz/mRyDcuCJj08Zo22niqTHjMRqSar7GfsTQUO/G2zA==",
+  "dgSpecHash": "K7kby8IvnCPjqBosI/UjP9j1f7jGGVuJ2c09eoTf4o3r+8qppvqFAUyp/aIRGwIf3PLGGoIxD4xBtMN2BFuxuA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kaari\\OneDrive - Hämeen ammattikorkeakoulu\\Gitit\\RPA-project\\Project\\.local\\",
+  "projectFilePath": "C:\\Users\\kaari\\OneDrive - Hämeen ammattikorkeakoulu\\Robotti\\Git\\RPA-project\\Project\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\kaari\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\kaari\\.nuget\\packages\\azure.core\\1.18.0\\azure.core.1.18.0.nupkg.sha512",
