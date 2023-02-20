@@ -21412,15 +21412,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kaari\\.nuget\\packages\\": {}
+    "C:\\Users\\julia\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "Project",
       "projectName": "Project",
-      "projectPath": "C:\\Users\\kaari\\OneDrive - Hämeen ammattikorkeakoulu\\Gitit\\RPA-project\\Project\\.local",
-      "packagesPath": "C:\\Users\\kaari\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kaari\\OneDrive - Hämeen ammattikorkeakoulu\\Gitit\\RPA-project\\Project\\.local"
+      "projectPath": "D:\\Julia\\Koulutehtävät\\2.vuosi\\Periodi 3\\Ohjelmistorobotiikka ja -automaatio\\RPA-project\\Project\\.local",
+      "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
+      "outputPath": "D:\\Julia\\Koulutehtävät\\2.vuosi\\Periodi 3\\Ohjelmistorobotiikka ja -automaatio\\RPA-project\\Project\\.local"
     },
     "frameworks": {
       "net6.0-windows7.0": {
@@ -21456,7 +21456,7 @@
             "version": "[22.10.4, 22.10.4]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\kaari\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
+        "runtimeIdentifierGraphPath": "D:\\Julia\\Kouluohjelmat\\UIPath\\runtime.json"
       }
     },
     "runtimes": {
